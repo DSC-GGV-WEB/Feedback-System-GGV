@@ -1,6 +1,6 @@
 const MongoClient = require("mongodb").MongoClient;
 const uri =
-  https://dashboard.gitguardian.com/share/incidents/685c1aa0-bd82-4a32-a6ca-6d6d4f48f83f;
+  "mongodb+srv://dsc-ggv-web:dsc@123@feedback.xnjh8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
 const client = new MongoClient(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
