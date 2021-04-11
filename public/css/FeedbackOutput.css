@@ -1,0 +1,8 @@
+.canvasjs-chart-credit {
+  visibility: hidden;
+}
+
+#pichart {
+  height: 370px;
+  width: 100%;
+}
